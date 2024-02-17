@@ -14,10 +14,10 @@ To install the project on the local machine :
 
 ```bash
 # Clone the repository
-git clone https://github.com/Fillgood-dev/Template.git
+git clone https://github.com/Fillgood-dev/Template-Front-End.git
 
 # Navigate to the project directory
-cd Template
+cd Template-Front-End
 
 # Install dependencies
 npm install
