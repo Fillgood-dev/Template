@@ -38,3 +38,9 @@ Expo Go enables you to work with all of the [Components and APIs](https://facebo
 - Download the "Expo Go" app from the Play Store or App Store.
 - Start your project with Expo CLI: `npm start`
 - Open the project by scanning the QR code in the terminal.
+
+## Documentation
+
+- [React Native](https://reactnative.dev/docs/components-and-apis)
+- [Expo](https://docs.expo.dev/versions/latest/)
+- [Vector Icons](https://icons.expo.fyi/Index)
